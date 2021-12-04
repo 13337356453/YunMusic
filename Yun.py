@@ -52,7 +52,7 @@ def title():
     print("+ \033[34;1m网易云音乐下载器\033[0m")
     print("+ \033[34;1m用法：python.exe Yun.py [-h] [-k KEYWORD] [-n NUMBER] [-p PATH] [-f FILE] [-e ENCODING]\033[0m")
     print("+ \033[34;1m版本：1.0\033[0m")
-    print("+ \033[34;1m下载地址：\033[0m")
+    print("+ \033[34;1m下载地址：https://github.com/13337356453/YunMusic\033[0m")
     print("+ \033[34;1m作者：manlu\033[0m")
 
 
